@@ -1,0 +1,7 @@
+body{
+        background-image: url(/img/bg-4004.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed; 
+      }
